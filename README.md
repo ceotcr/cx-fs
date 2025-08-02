@@ -3,7 +3,7 @@
 ### Flow
 <img width="1004" height="272" alt="cx-fs" src="https://github.com/user-attachments/assets/15094fe7-4b18-49e9-9164-3292a5eb3dd2" />
 
-### DEMO: 
+### Demo
 [Demo](https://github.com/user-attachments/assets/ac9c320e-b398-4688-98c0-864542dfe5c9)
 
 ### Tech Stack
